@@ -1,2 +1,2 @@
 # React Project 
-## still in progress. 
+## Still in progress. 
